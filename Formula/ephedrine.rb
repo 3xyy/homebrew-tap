@@ -1,8 +1,8 @@
 class Ephedrine < Formula
   desc "Keep your Mac awake while Claude Code works, then let it sleep"
   homepage "https://github.com/3xyy/ephedrine"
-  url "https://github.com/3xyy/ephedrine/archive/refs/tags/v1.1.1.tar.gz"
-  sha256 "a7014dd56f1daa52cfe99b853327e5977ae032b4eb75414c00f53bcd699feb42"
+  url "https://github.com/3xyy/ephedrine/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "cf3de817db6891e673fe43d7d5da6a34be87e5d6ceae021cbc0e40a3dd683b8a"
   license "MIT"
   head "https://github.com/3xyy/ephedrine.git", branch: "main"
 
